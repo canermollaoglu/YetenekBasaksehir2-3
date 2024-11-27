@@ -45,6 +45,8 @@ yeni bir bilgi eklendi.
 
 .gitignore dosyası git tarafından verisiyonlanmasını istemediğimiz dosyalar için kullanılır.
 
+dosya github'a eklendi
+
 
 
 
