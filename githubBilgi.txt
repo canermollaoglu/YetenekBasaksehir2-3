@@ -41,6 +41,8 @@ git add deneme.txt
 git status
 git commit -m "ilk kod yazıldı"
 
+yeni bir bilgi eklendi.
+
 
 
 
