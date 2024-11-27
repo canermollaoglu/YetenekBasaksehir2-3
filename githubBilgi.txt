@@ -43,6 +43,7 @@ git commit -m "ilk kod yazıldı"
 
 yeni bir bilgi eklendi.
 
+.gitignore dosyası git tarafından verisiyonlanmasını istemediğimiz dosyalar için kullanılır.
 
 
 

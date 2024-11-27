@@ -1,2 +1,3 @@
 ilk satır kodlarımı buraya yazıyorum
 Bakalım ne olacak
+ikinci satır kodlar yazıldı.
